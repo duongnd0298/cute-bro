@@ -10,8 +10,8 @@ const textConfig = {
   text9: "Anh đẹp try vlllll",
   text10: "Bạn Gấu ngoan lắm =))",
   text11:
-    "Chúc bạn Loan Gấu ngày 8-3 vui vẻ và hạnh phúc nha :DDDDDDDDDDDDD",
-  text12: "Đúng v <3",
+    "Chúc bạn Gấu Loan ngày 8-3 vui vẻ và hạnh phúc nha :DDDDDDDDDDDDD",
+  text12: "I Love You <3",
 };
 
 $(document).ready(function () {
