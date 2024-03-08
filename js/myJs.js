@@ -5,9 +5,9 @@ const textConfig = {
   text4: "Nếu Loan ko trả lời mà thoát ra tức là Loan trẻ chow :v",
   text5: "Chê :))",
   text6: "Anh đẹp trai vcllll :))",
-  text7: "Thấy anh như thế nào?? :vvvv",
+  text7: "Bạn Loan thấy anh như thế nào?? :vvvv",
   text8: "Gửi cho anh nào <3",
-  text9: "Anh đẹp try vlllll",
+  text9: "Anh đẹp try, hiền lành, tốt bụng, perfect vlllll :)))",
   text10: "Bạn Gấu ngoan lắm =))",
   text11:
     "Chúc bạn Gấu Loan ngày 8-3 vui vẻ và hạnh phúc nha :DDDDDDDDDDDDD",
